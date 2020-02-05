@@ -1,0 +1,1 @@
+Este projeto automatiza duas compras específicas no site [https://shopcart-challenge.4all.com/]
